@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "OCs9qb9BR9F2ahCIJS29jw2t4zXCi81PaRD8/KhPO4XnQh+uqxnNlVFHOf0z0Pjlwr3a801dH7CxaVlB/3mrEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Temp\\ISPP-35\\LabWork43\\PingPong\\PingPong.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Вы выполняете операцию ''restore'' с источником ''HTTP'', ''http://nuget.iis.softsol.local/nuget''. Доступ без HTTPS будет удален в будущей версии. Рассмотрите возможность перехода на источник ''HTTPS''."
+    }
+  ]
+}
